@@ -148,3 +148,16 @@ a:hover, a:active, a:focus {
 #hero {
 	position: relative;
 }
+
+.bg { 
+    /* The image used */
+    background-image: url("../images/Happy-Maha-Shivaratri-Wishes-HD-Wallpaper.jpg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
